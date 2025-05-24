@@ -1,4 +1,4 @@
-# Proect-po-C
+# Prostokvashino
 
 Участники:
 Галиев Искандер 0907-31
